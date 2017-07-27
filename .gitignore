@@ -1,3 +1,4 @@
 build
 app/assets/css
 *.swp
+node_modules
