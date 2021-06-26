@@ -13,7 +13,7 @@ gulp.task('watch', function () {
 })
 
 
-gulp.task('browser-sync', function () {
+gulp.task('bsync', function () {
    var files = [
       'app/*.html',
       'app/assets/css/*.css',
